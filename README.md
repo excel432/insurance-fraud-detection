@@ -46,6 +46,8 @@ XGBoost
 Imbalance-lean (SMOTE)
 Joblib
 
+<img width="519" height="386" alt="insurance" src="https://github.com/user-attachments/assets/640d4bff-759f-48c3-9863-37b41394fa61" />
+
 FEATURE IMPROVEMENT:
 Deplopy the model as a web application
 Experiment feature engineering
